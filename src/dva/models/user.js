@@ -1,8 +1,3 @@
-// import { Toast } from '@ant-design/react-native';
-// import I18n from 'hc-rn-i18n';
-// import { isCN } from '../../utils';
-
-
 
 const initState = { 
    currentUser:undefined,
